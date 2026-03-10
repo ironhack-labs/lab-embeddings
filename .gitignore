@@ -1,0 +1,115 @@
+# ===============================
+
+# Python Virtual Environments
+
+# ===============================
+
+venv/
+.venv/
+env/
+ENV/
+
+# ===============================
+
+# Python Cache / Compiled Files
+
+# ===============================
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# ===============================
+
+# Jupyter Notebook
+
+# ===============================
+
+.ipynb_checkpoints/
+
+# ===============================
+
+# Model / Transformer Caches
+
+# (important for sentence-transformers)
+
+# ===============================
+
+.cache/
+.huggingface/
+transformers_cache/
+*.pt
+*.bin
+
+# ===============================
+
+# Data Files
+
+# (keep repo lightweight)
+
+# ===============================
+
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.jsonl
+
+# ===============================
+
+# Logs
+
+# ===============================
+
+logs/
+*.log
+
+# ===============================
+
+# IDE Settings
+
+# ===============================
+
+.vscode/
+.idea/
+
+# ===============================
+
+# OS Files
+
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# ===============================
+
+# Python Packaging
+
+# ===============================
+
+build/
+dist/
+*.egg-info/
+
+# ===============================
+
+# Environment Variables / Secrets
+
+# ===============================
+
+.env
+.env.*
+
+# ===============================
+
+# Temporary Files
+
+# ===============================
+
+tmp/
+temp/
+*.tmp

@@ -19,3 +19,20 @@ Complete `your-code/main.ipynb`. Follow the instructions and add your code and e
 - Upon completion, add your deliverables to git. 
 - Then commit git and push your branch to the remote.
 - Make a pull request and paste the PR link in the submission field in the Student Portal.
+
+My Notes:
+Transformer embeddings
+
+Semantic similarity using cosine distance
+
+Vector representations of text
+
+Foundation for:
+
+semantic search
+
+document clustering
+
+recommendation systems
+
+RAG pipelines
